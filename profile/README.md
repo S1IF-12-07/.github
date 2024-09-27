@@ -27,7 +27,7 @@ The course is divided into several modules, each focusing on different aspects o
 We encourage you to contribute to this repository. If you have any improvements or suggestions, feel free to open an issue in forum.
 
 ## Support
-If you have any questions or need assistance, please don’t hesitate to reach out. You can contact us via Whatsapp Group
+If you have any questions or need assistance, please don’t hesitate to reach out. You can contact us via Whatsapp Group.
 
 Happy coding! 🚀
 
