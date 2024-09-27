@@ -14,14 +14,14 @@ In this course, you will:
 
 ## Course Structure
 The course is divided into several modules, each focusing on different aspects of algorithms and Go programming:
--I/O, Tipe data dan Variabel
--struktur kontrol: for-Loop
--struktur kontrol: if then
--struktur kontrol: else if
--struktur kontrol: switch-case
--struktur kontrol: whiile-loop
--struktur kontrol: reepeat-until
--struktur kontrol: komposisi
+- I/O, Tipe data dan Variabel
+- struktur kontrol: for-Loop
+- struktur kontrol: if then
+- struktur kontrol: else if
+- struktur kontrol: switch-case
+- struktur kontrol: whiile-loop
+- struktur kontrol: reepeat-until
+- struktur kontrol: komposisi
 
 ## Contributing
 We encourage you to contribute to this repository. If you have any improvements or suggestions, feel free to open an issue in forum.
